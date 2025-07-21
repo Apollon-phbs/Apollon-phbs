@@ -1,16 +1,35 @@
-## Hi there 👋
+# <p align="center">Github <strong>Apollon</strong></p>
 
-<!--
-**Apollon-phbs/Apollon-phbs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 À propos de moi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Je suis étudiant à l'école 42, passionné par le développement, l’algorithmique et les défis techniques.  
+J’aime explorer l’univers du code, apprendre constamment et collaborer sur des projets innovants.
+
+---
+
+## 🛠️ Langages & Outils
+
+<p align="center">
+  <!-- HTML5 minimal icon -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="HTML5" width="40" height="40"/>
+  <!-- CSS3 minimal icon -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS3" width="40" height="40"/>
+  <!-- C modern hexagon icon -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  <!-- C# minimal icon -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" alt="C#" width="40" height="40"/>
+  <!-- Linux minimal icon -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" alt="Linux" width="40" height="40"/>
+</p>
+
+---
+
+## 💡 Mes projets
+
+<p align="center"><strong>Soon</strong></p>
+
+---
+
+<p align="center"><i>Made with ❤️ by Apollon</i></p>
